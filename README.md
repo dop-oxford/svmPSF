@@ -12,4 +12,4 @@ TBD, doi: TBD
 
 Binary jar files files for the plugin can be found [here](https://github.com/dop-oxford/svmPSF).
 
-The binary jar files simply has to be placed into the pluggins folder of Fiji/ImageJ.
+The binary jar files simply has to be placed into the plugins folder of Fiji/ImageJ.
