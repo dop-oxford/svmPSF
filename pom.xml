@@ -14,7 +14,7 @@
 
 	<groupId>dop</groupId>
 	<artifactId>svmPSF</artifactId>
-	<version>0.1.0</version>
+	<version>1.0.0</version>
 
 	<name>svmPSF</name>
 	<description>Perform spatially variant deconvolution of bioimages.</description>
