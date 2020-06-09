@@ -10,6 +10,6 @@ Raphaël Turcotte, Eusebiu Sutu, Carla C. Schmidt, Nigel J. Emtpage, Martin J. B
 TBD, doi: TBD
 ```
 
-Binary jar files files for the plugin can be found [here](https://github.com/dop-oxford/svmPSF/releases/).
+Binary jar files files for the plugin can be found [here](https://github.com/dop-oxford/svmPSF).
 
 Quickstart manual can be found on [our website](aomicroscopy.org).
